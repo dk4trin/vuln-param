@@ -11,3 +11,7 @@ USAGE
 ```
 	./vulnparam.sh domain.com
 ```
+
+
+DK4TRIN
+Twitter: @dk4trin
