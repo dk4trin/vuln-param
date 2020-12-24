@@ -9,5 +9,5 @@ REQUIRIMENTS
 ```
 USAGE
 ```
-  ./vulnparam.sh domain.com
+	./vulnparam.sh domain.com
 ```
